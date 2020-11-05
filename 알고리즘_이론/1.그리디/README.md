@@ -1,2 +1,3 @@
-# problem-solving-note
-coding test note
+# 오답노트
+leetcode
+[easy] 1217, 1005
