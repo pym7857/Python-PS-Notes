@@ -1,5 +1,5 @@
 # 오답노트
-<span style="background-color: #FFFF00">LeetCode</span> <br>
+<i>LeetCode</i> <br>
 [Easy] 
 [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/), 
 [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/), 
