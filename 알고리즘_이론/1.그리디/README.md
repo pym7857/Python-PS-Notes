@@ -1,7 +1,5 @@
 # 오답노트
 
-<hr>
-
 ## 못푼문제
 ### LeetCode <br>
 [Easy] 
@@ -9,8 +7,6 @@
 [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/), 
 [874](https://leetcode.com/problems/walking-robot-simulation/) <br>
 [Medium]
-
-<hr>
 
 ## 오래걸린문제
 ### LeetCode <br>
