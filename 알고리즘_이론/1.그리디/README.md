@@ -14,4 +14,8 @@
 [Easy] 
 <br>
 [Medium] 
+[1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
+[921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+[1578](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/)
+[1094](https://leetcode.com/problems/car-pooling/)
 [991](https://leetcode.com/problems/broken-calculator/)
