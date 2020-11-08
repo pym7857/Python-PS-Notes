@@ -19,3 +19,10 @@
 [1578](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/)
 [1094](https://leetcode.com/problems/car-pooling/)
 [991](https://leetcode.com/problems/broken-calculator/)
+
+### 쉽게 푼 문제
+### LeetCode <br>
+[Easy] 
+<br>
+[Medium] 
+[1253](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)
