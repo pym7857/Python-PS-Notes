@@ -20,7 +20,7 @@
 [1094](https://leetcode.com/problems/car-pooling/)
 [991](https://leetcode.com/problems/broken-calculator/)
 
-### 쉽게 푼 문제
+## 쉽게 푼 문제
 ### LeetCode <br>
 [Easy] 
 <br>
