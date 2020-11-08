@@ -8,3 +8,10 @@
 [874](https://leetcode.com/problems/walking-robot-simulation/) 
 <br>
 [Medium]
+
+## 오래걸렸지만, 스스로 푼 문제
+### LeetCode <br>
+[Easy] 
+<br>
+[Medium] 
+[991](https://leetcode.com/problems/broken-calculator/)
