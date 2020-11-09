@@ -26,3 +26,4 @@
 <br>
 [Medium] 
 [1253](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)
+[55](https://leetcode.com/problems/jump-game/)
