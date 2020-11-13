@@ -1,2 +1,2 @@
-# problem-solving-note
+# Python-PS-Notes
 coding test note
