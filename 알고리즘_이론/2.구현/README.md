@@ -1,4 +1,4 @@
-# 2.구현
+# 2.구현 (https://leetcode.com/tag/design/)
 
 ## 못푼문제
 ### LeetCode <br>
