@@ -7,7 +7,24 @@
 [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
 [874](https://leetcode.com/problems/walking-robot-simulation/) 
 <br>
-[Medium]
+[Medium] 
+[763](https://leetcode.com/problems/partition-labels/)
+[406](https://leetcode.com/problems/queue-reconstruction-by-height/)
+[1433](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)
+[1338](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+[1029](https://leetcode.com/problems/two-city-scheduling/)
+[1288](https://leetcode.com/problems/remove-covered-intervals/)
+[714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+[1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
+[621](https://leetcode.com/problems/task-scheduler/)
+[1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+[767](https://leetcode.com/problems/reorganize-string/)
+[881](https://leetcode.com/problems/boats-to-save-people/)
+[870](https://leetcode.com/problems/advantage-shuffle/)
+[738](https://leetcode.com/problems/monotone-increasing-digits/)
+[1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)
+
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
