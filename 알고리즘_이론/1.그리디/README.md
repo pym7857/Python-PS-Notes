@@ -1,4 +1,4 @@
-# 1.그리디
+# 1.그리디 (https://leetcode.com/tag/greedy/)
 
 ## 못푼문제
 ### LeetCode <br>
