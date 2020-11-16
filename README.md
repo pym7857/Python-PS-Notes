@@ -1,3 +1,3 @@
 # Python-PS-Notes
-coding test note :boom:
+coding-test note :boom:
  
