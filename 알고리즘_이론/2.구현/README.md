@@ -4,14 +4,17 @@
 ### LeetCode <br>
 [Easy] 
 <br>
-[Medium] [1286](https://leetcode.com/problems/iterator-for-combination/)
+[Medium] 
+[1286](https://leetcode.com/problems/iterator-for-combination/)
+[211](https://leetcode.com/problems/design-add-and-search-words-data-structure/):시간초과
 
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
 [Easy] 
 <br>
-[Medium] [146](https://leetcode.com/problems/lru-cache/)
+[Medium] 
+[146](https://leetcode.com/problems/lru-cache/)
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
