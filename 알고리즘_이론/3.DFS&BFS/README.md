@@ -1,4 +1,4 @@
-# 3-1.DFS (https://leetcode.com/tag/depth-first-search/)
+# 3. (1)DFS (https://leetcode.com/tag/depth-first-search/)
 
 ## 못푼문제
 ### LeetCode <br>
@@ -18,7 +18,8 @@
 <br>
 [Medium] 
 
-# 3-2.BFS (https://leetcode.com/tag/breadth-first-search/)
+<br><br>
+# 3. (2)BFS (https://leetcode.com/tag/breadth-first-search/)
 
 ## 못푼문제
 ### LeetCode <br>
