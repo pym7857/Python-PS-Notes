@@ -11,7 +11,7 @@
 ### LeetCode <br>
 [Easy] 
 <br>
-[Medium] 
+[Medium] [146](https://leetcode.com/problems/lru-cache/)
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
