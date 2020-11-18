@@ -4,7 +4,7 @@
 ### LeetCode <br>
 [Easy] 
 <br>
-[Medium] 
+[Medium] [1286](https://leetcode.com/problems/iterator-for-combination/)
 
 
 ## 오래걸렸지만, 스스로 푼 문제
