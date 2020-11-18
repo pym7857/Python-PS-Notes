@@ -15,6 +15,6 @@
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
-[Easy] 
+[Easy] 1603 705 706
 <br>
-[Medium] 
+[Medium] 1381
