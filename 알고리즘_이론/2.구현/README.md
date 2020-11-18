@@ -20,4 +20,4 @@
 ### LeetCode <br>
 [Easy] 1603 705 706
 <br>
-[Medium] 1381
+[Medium] 1381 380
