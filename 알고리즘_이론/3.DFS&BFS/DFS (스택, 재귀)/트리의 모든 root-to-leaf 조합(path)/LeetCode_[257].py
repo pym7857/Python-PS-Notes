@@ -1,5 +1,5 @@
 # Definition for a binary tree node.
-# 핵심은 Path가 매개변수로 들어간다는 것 !!
+# 핵심은 Path가 매개변수로 들어간다는 것 + 매개변수 넘길때 계산한다는 것 -> 그래야 다른곳에 영향 X
 
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
