@@ -9,6 +9,7 @@
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
 [Easy] 
+[938](https://leetcode.com/problems/range-sum-of-bst/)
 <br>
 [Medium] 
 
