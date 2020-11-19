@@ -30,6 +30,7 @@
 [Medium] <br>
 1302(path)(=재귀) <br>
 1448(path)(=재귀)
+841
 
 <br><br>
 # 3. (2)BFS (https://leetcode.com/tag/breadth-first-search/)
