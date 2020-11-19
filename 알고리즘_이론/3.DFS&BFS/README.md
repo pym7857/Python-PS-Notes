@@ -3,6 +3,7 @@
 ## 못푼문제
 ### LeetCode <br>
 [Easy] 
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 <br>
 [Medium] 
 
