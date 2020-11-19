@@ -3,7 +3,7 @@
 ## 못푼문제
 ### LeetCode <br>
 [Easy] 
-[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)(트리 높이 )(정답:https://airsbigdata.tistory.com/86)
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)(트리 높이 계산)(정답:https://airsbigdata.tistory.com/86)
 <br>
 [Medium] 
 
