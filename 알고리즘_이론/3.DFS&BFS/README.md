@@ -11,6 +11,10 @@
 [Medium] <br>
 [1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ● <br>
 [695](https://leetcode.com/problems/max-area-of-island/)(=BFS)(=가장 넓은 면적 찾기)
+[979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) ● <br>
+[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ● <br>
+[1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) ● <br>
+[959](https://leetcode.com/problems/regions-cut-by-slashes/) ● <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
