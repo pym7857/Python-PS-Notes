@@ -16,7 +16,7 @@
 [938](https://leetcode.com/problems/range-sum-of-bst/)(=BST 범위내의 합)
 <br>
 [Medium] 
-[797](https://leetcode.com/problems/all-paths-from-source-to-target/)(=시작~끝Node 까지 모든path)(=재귀)(=매개변수로path넘기기 + 매개변수 안에서 계산)
+[797](https://leetcode.com/problems/all-paths-from-source-to-target/)(=시작~끝Node 까지 모든path)(=재귀)(=매개변수로path넘기기 + 매개변수 안에서 path계산)
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
