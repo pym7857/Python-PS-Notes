@@ -10,7 +10,7 @@
 <br>
 [Medium] <br>
 [1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ● <br>
-[695](https://leetcode.com/problems/max-area-of-island/)(=BFS 기본 코딩)
+[695](https://leetcode.com/problems/max-area-of-island/)(=BFS)(=가장 넓은 면적 찾기)
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
