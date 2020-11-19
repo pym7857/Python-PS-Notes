@@ -13,17 +13,23 @@
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
-[Easy] 
+[Easy] <br>
 [938](https://leetcode.com/problems/range-sum-of-bst/)(=BST 범위내의 합)
 <br>
-[Medium] 
+[Medium] <br>
 [797](https://leetcode.com/problems/all-paths-from-source-to-target/)(=시작~끝Node 까지 모든path)(=재귀)(=매개변수로path넘기기 + 매개변수 안에서 path계산)
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
-[Easy] 872 100(=모든 노드 배열에 담기) 112 111
+[Easy] <br>
+872 <br>
+100(=모든 노드 배열에 담기) <br>
+112 <br>
+111
 <br>
-[Medium] 1302(path)(=재귀) 1448(path)(=재귀)
+[Medium] <br>
+1302(path)(=재귀) <br>
+1448(path)(=재귀)
 
 <br><br>
 # 3. (2)BFS (https://leetcode.com/tag/breadth-first-search/)
