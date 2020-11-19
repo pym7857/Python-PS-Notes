@@ -9,6 +9,7 @@
 [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)(=height-balanced-BST) ●
 <br>
 [Medium] 
+[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
