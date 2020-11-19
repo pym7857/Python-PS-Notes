@@ -23,7 +23,7 @@
 ### LeetCode <br>
 [Easy] 872 100(=모든 노드 배열에 담기) 112 111
 <br>
-[Medium] 1302
+[Medium] 1302 1448
 
 <br><br>
 # 3. (2)BFS (https://leetcode.com/tag/breadth-first-search/)
