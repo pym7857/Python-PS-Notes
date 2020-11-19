@@ -9,7 +9,8 @@
 [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)(=height-balanced-BST) ●
 <br>
 [Medium] <br>
-[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ●
+[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ● <br>
+[695](https://leetcode.com/problems/max-area-of-island/)(=BFS 기본 코딩)
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
