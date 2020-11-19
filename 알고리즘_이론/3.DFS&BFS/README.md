@@ -2,9 +2,9 @@
 
 ## 못푼문제
 ### LeetCode <br>
-[Easy] 
-[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)(트리 max높이 계산)(https://airsbigdata.tistory.com/86)
-[257](https://leetcode.com/problems/binary-tree-paths/)(root-to-leaf path)
+[Easy] <br>
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)(트리 max높이 계산)(https://airsbigdata.tistory.com/86) <br>
+[257](https://leetcode.com/problems/binary-tree-paths/)(root-to-leaf path) <br>
 <br>
 [Medium] 
 
