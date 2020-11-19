@@ -16,7 +16,7 @@
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
-[Easy] 
+[Easy] 872
 <br>
 [Medium] 
 
