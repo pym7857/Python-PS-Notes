@@ -3,8 +3,8 @@
 ## 못푼문제
 ### LeetCode <br>
 [Easy] <br>
-[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)(트리 max높이 계산)(https://airsbigdata.tistory.com/86) <br>
-[257](https://leetcode.com/problems/binary-tree-paths/)(root-to-leaf path) <br>
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)(=트리 max높이 계산)(https://airsbigdata.tistory.com/86) <br>
+[257](https://leetcode.com/problems/binary-tree-paths/)(=root-to-leaf path) <br>
 <br>
 [Medium] 
 
@@ -17,7 +17,7 @@
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
-[Easy] 872 100(모든 노드 배열에 담기) 112
+[Easy] 872 100(=모든 노드 배열에 담기) 112
 <br>
 [Medium] 
 
