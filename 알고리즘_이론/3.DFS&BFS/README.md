@@ -16,7 +16,7 @@
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
-[Easy] 872 100
+[Easy] 872 100(모든 노드 배열에 담기)
 <br>
 [Medium] 
 
