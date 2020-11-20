@@ -7,7 +7,7 @@
 [257](https://leetcode.com/problems/binary-tree-paths/)(=root-to-leaf path)(=재귀 개념) <br>
 [110](https://leetcode.com/problems/balanced-binary-tree/)(=height-balanced) ● <br>
 [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)(=height-balanced-BST) ● <br>
-[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)(=height-balanced-BST) ● <br>
+
 <br>
 [Medium] <br>
 [1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ● <br>
@@ -20,6 +20,9 @@
 [1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) ● <br>
 [547](https://leetcode.com/problems/friend-circles/) ● <br>
 [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) ● <br>
+[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)(=height-balanced-BST) ● <br>
+[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)(=Traversal정보로 tree만들기) ● <br>
+[106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)(=Traversal정보로 tree만들기) ● <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
