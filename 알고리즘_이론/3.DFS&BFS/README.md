@@ -10,19 +10,7 @@
 
 <br>
 [Medium] <br>
-[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) ● <br>
-[695](https://leetcode.com/problems/max-area-of-island/) (=BFS)(=가장 넓은 면적 찾기) <br>
-[979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) ● <br>
-[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ● <br>
-[1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) ● <br>
-[959](https://leetcode.com/problems/regions-cut-by-slashes/) ● <br>
-[863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) (=root.left, root.right로 나누어서 생각했음. 너무 예외 多) ● <br>
-[1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) ● <br>
-[547](https://leetcode.com/problems/friend-circles/) ● <br>
-[430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) ● <br>
-[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) (=height-balanced-BST) ● <br>
-[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (=Traversal정보로 tree만들기) ● <br>
-[106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (=Traversal정보로 tree만들기) ● <br>
+
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
