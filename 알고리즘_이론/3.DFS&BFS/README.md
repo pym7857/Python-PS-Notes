@@ -22,8 +22,8 @@
 [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) (=height-balanced-BST) ● <br>
 [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (=Traversal정보로 tree만들기) ● <br>
 [106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (=Traversal정보로 tree만들기) ● <br>
-[934](https://leetcode.com/problems/shortest-bridge/) (=아이디어 필요)
-[337](https://leetcode.com/problems/house-robber-iii/) (=아이디어 필요)
+[934](https://leetcode.com/problems/shortest-bridge/) (=아이디어 필요) ● <br>
+[337](https://leetcode.com/problems/house-robber-iii/) (=아이디어 필요) ● <br>
 
 
 ## 오래걸렸지만, 스스로 푼 문제
