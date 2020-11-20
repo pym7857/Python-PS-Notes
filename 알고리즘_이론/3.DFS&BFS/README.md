@@ -15,6 +15,7 @@
 [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) ● <br>
 [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) ● <br>
 [959](https://leetcode.com/problems/regions-cut-by-slashes/) ● <br>
+[863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)(=root.left, root.right로 나누어서 생각. 너무 예외 많음. 코드 더러움)
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
