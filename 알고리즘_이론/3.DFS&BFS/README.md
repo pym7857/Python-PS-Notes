@@ -34,7 +34,7 @@
 [Medium] <br>
 [797](https://leetcode.com/problems/all-paths-from-source-to-target/) (=시작~끝Node 까지 모든path)(=재귀)(=매개변수로path넘기기 + 매개변수 안에서 path계산) <br>
 [394](https://leetcode.com/problems/decode-string/) (=start, end 투포인터 이용) <br>
-[200](https://leetcode.com/problems/number-of-islands/) (=나동빈 p.151)
+[200](https://leetcode.com/problems/number-of-islands/) (=구역 개수 세기)(=나동빈 p.151)
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
