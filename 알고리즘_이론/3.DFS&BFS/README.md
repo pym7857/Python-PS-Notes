@@ -21,8 +21,8 @@
 [547](https://leetcode.com/problems/friend-circles/) ● <br>
 [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) ● <br>
 [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)(=height-balanced-BST) ● <br>
-[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)(=Traversal정보로 tree만들기) ● <br>
-[106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)(=Traversal정보로 tree만들기) ● <br>
+[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (=Traversal정보로 tree만들기) ● <br>
+[106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (=Traversal정보로 tree만들기) ● <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
