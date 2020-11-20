@@ -10,8 +10,6 @@
 [Medium] 
 [763](https://leetcode.com/problems/partition-labels/)
 [406](https://leetcode.com/problems/queue-reconstruction-by-height/)
-[1433](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)
-[1338](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 [1029](https://leetcode.com/problems/two-city-scheduling/)
 [1288](https://leetcode.com/problems/remove-covered-intervals/)
 [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
@@ -21,15 +19,10 @@
 [452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 [767](https://leetcode.com/problems/reorganize-string/)
 [881](https://leetcode.com/problems/boats-to-save-people/)
-[870](https://leetcode.com/problems/advantage-shuffle/)
-[738](https://leetcode.com/problems/monotone-increasing-digits/)
-[1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)
 [435](https://leetcode.com/problems/non-overlapping-intervals/)
 [134](https://leetcode.com/problems/gas-station/)
 [376](https://leetcode.com/problems/wiggle-subsequence/)
 [316](https://leetcode.com/problems/remove-duplicate-letters/)
-[1567](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
-[1589](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/)
 [402](https://leetcode.com/problems/remove-k-digits/)
 
 ## 오래걸렸지만, 스스로 푼 문제
