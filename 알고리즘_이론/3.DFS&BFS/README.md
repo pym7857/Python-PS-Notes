@@ -63,19 +63,25 @@
 # 3. (2)BFS
 
 ## 못푼문제
-### LeetCode <br>
+### ▶LeetCode <br>
 [Easy] 
 <br>
 [Medium] 
+
+### ▶백준 <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
-### LeetCode <br>
+### ▶LeetCode <br>
 [Easy] 
 <br>
 [Medium] 
 
+### ▶백준 <br>
+
 ## 쉽게 푼 문제
-### LeetCode <br>
+### ▶LeetCode <br>
 [Easy] 
 <br>
 [Medium] 
+
+### ▶백준 <br>
