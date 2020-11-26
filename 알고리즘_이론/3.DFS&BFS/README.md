@@ -1,7 +1,7 @@
 # 3. (1)DFS
 
 ## 못푼문제
-### ■LeetCode <br>
+### ▶LeetCode <br>
 [Easy] <br>
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (=트리 max높이 계산)(https://airsbigdata.tistory.com/86) <br>
 [257](https://leetcode.com/problems/binary-tree-paths/) (=root-to-leaf path)(=재귀 개념) <br>
@@ -25,11 +25,11 @@
 [934](https://leetcode.com/problems/shortest-bridge/) (=아이디어 필요) ● <br>
 [337](https://leetcode.com/problems/house-robber-iii/) (=아이디어 필요) ● <br>
 
-### ■백준 <br>
+### ▶백준 <br>
 
 
 ## 오래걸렸지만, 스스로 푼 문제
-### ■LeetCode <br>
+### ▶LeetCode <br>
 [Easy] <br>
 [938](https://leetcode.com/problems/range-sum-of-bst/) (=BST 범위내의 합)
 <br>
@@ -38,10 +38,10 @@
 [394](https://leetcode.com/problems/decode-string/) (=start, end 투포인터 이용) <br>
 [200](https://leetcode.com/problems/number-of-islands/) (=구역 개수 세기)(=나동빈 p.151)
 
-### ■백준 <br>
+### ▶백준 <br>
 
 ## 쉽게 푼 문제
-### ■LeetCode <br>
+### ▶LeetCode <br>
 [Easy] <br>
 872 <br>
 100(=모든 노드 배열에 담기) <br>
@@ -57,7 +57,7 @@
 199 <br>
 129 <br>
 
-### ■백준 <br>
+### ▶백준 <br>
 
 <br>
 # 3. (2)BFS
