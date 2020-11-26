@@ -1,4 +1,4 @@
-# 3. (1)DFS (https://leetcode.com/tag/depth-first-search/)
+# 3. (1)DFS
 
 ## 못푼문제
 ### LeetCode <br>
@@ -25,6 +25,8 @@
 [934](https://leetcode.com/problems/shortest-bridge/) (=아이디어 필요) ● <br>
 [337](https://leetcode.com/problems/house-robber-iii/) (=아이디어 필요) ● <br>
 
+### 백준 <br>
+
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### LeetCode <br>
@@ -35,6 +37,8 @@
 [797](https://leetcode.com/problems/all-paths-from-source-to-target/) (=시작~끝Node 까지 모든path)(=재귀)(=매개변수로path넘기기 + 매개변수 안에서 path계산) <br>
 [394](https://leetcode.com/problems/decode-string/) (=start, end 투포인터 이용) <br>
 [200](https://leetcode.com/problems/number-of-islands/) (=구역 개수 세기)(=나동빈 p.151)
+
+### 백준 <br>
 
 ## 쉽게 푼 문제
 ### LeetCode <br>
@@ -53,8 +57,10 @@
 199 <br>
 129 <br>
 
-<br><br>
-# 3. (2)BFS (https://leetcode.com/tag/breadth-first-search/)
+### 백준 <br>
+
+<br>
+# 3. (2)BFS
 
 ## 못푼문제
 ### LeetCode <br>
