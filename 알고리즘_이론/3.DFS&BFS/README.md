@@ -1,4 +1,5 @@
 # 3. (1)DFS
+https://www.acmicpc.net/problemset?sort=ac_desc&algo=127
 
 ## 못푼문제
 ### ▶LeetCode <br>
@@ -61,6 +62,7 @@
 
 <br>
 # 3. (2)BFS
+https://www.acmicpc.net/problemset?sort=ac_desc&algo=126
 
 ## 못푼문제
 ### ▶LeetCode <br>
