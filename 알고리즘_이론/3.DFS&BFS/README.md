@@ -1,5 +1,4 @@
 # 3. (1)DFS
-(백준) https://www.acmicpc.net/problemset?sort=ac_desc&algo=127
 
 ## 못푼문제
 ### ▶LeetCode <br>
@@ -64,7 +63,6 @@ dd
 <hr>
 
 # 3. (2)BFS
-(백준) https://www.acmicpc.net/problemset?sort=ac_desc&algo=126
 
 ## 못푼문제
 ### ▶LeetCode <br>
