@@ -4,7 +4,7 @@
 ### 백준
 [1987](https://www.acmicpc.net/problem/1987) (시간초과)(path문제)(=매개변수) <br>
 [2644](https://www.acmicpc.net/problem/2644) (left, right가 아닌 TreeNode문제..) <br>
-[11725](https://www.acmicpc.net/problem/11725) (시간초과)(TreeNode 부모, 자식 문제) <br>
+[11725](https://www.acmicpc.net/problem/11725) (시간초과)(left, right가 아닌 TreeNode문제..) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
