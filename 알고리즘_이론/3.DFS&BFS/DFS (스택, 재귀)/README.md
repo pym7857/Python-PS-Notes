@@ -2,7 +2,7 @@
 
 ## 못푼문제
 ### 백준
-[1987](https://www.acmicpc.net/problem/1987) (시간초과)(path문제)
+[1987](https://www.acmicpc.net/problem/1987) (시간초과)(path문제)(=매개변수)
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
