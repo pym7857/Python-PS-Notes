@@ -3,8 +3,9 @@
 ## 못푼문제
 ### 백준
 [1987](https://www.acmicpc.net/problem/1987) (시간초과)(path문제)(=매개변수) <br>
-[2644](https://www.acmicpc.net/problem/2644) (left, right가 아닌 TreeNode문제..) <br>
-[11725](https://www.acmicpc.net/problem/11725) (시간초과)(left, right가 아닌 TreeNode문제..) <br>
+[2644](https://www.acmicpc.net/problem/2644) (left, right가 아닌 TreeNode문제) <br>
+[11725](https://www.acmicpc.net/problem/11725) (시간초과)(left, right가 아닌 TreeNode문제) <br>
+[2573](https://www.acmicpc.net/problem/2573) (시간초과)(구역 개수 카운트, deepcopy) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
