@@ -11,6 +11,7 @@
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
 [2583](https://www.acmicpc.net/problem/2583) (좌표를 블록index로 변환, 단지별 집의 개수) <br>
+[7576](https://www.acmicpc.net/problem/7576) <br>
 
 ## 쉽게 푼 문제
 ### 백준
