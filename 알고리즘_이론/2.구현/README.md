@@ -1,4 +1,4 @@
-# 2.구현 (https://leetcode.com/tag/design/)
+# 구현
 
 ## 못푼문제
 ### LeetCode <br>
