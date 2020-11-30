@@ -9,7 +9,7 @@
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
-[7576](https://www.acmicpc.net/problem/7576) (토마토)(양쪽 출발. 익는 날짜)(=큐) <br>
+[7576](https://www.acmicpc.net/problem/7576) (토마토)(양쪽 출발. 익는 날짜)(이중 큐, next배열 사용) <br>
 
 ## 쉽게 푼 문제
 ### 백준
