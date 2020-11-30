@@ -4,6 +4,7 @@
 ### 백준
 [2178](https://www.acmicpc.net/problem/2178) (처음-끝 최단경로) :o: <br>
 [1697](https://www.acmicpc.net/problem/1697) (dp아님? 어떻게 bfs?) <br>
+[14502](https://www.acmicpc.net/problem/14502) (벽 세우기) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
