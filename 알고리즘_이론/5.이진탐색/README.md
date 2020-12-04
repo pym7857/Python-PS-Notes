@@ -6,6 +6,7 @@
 [나무 자르기](https://www.acmicpc.net/problem/2805) (이진탐색 반복문) :o: <br>
 [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) (???) <br>
 [K번째 수](https://www.acmicpc.net/problem/1300) (???) <br>
+[합이 0인 네 정수](https://www.acmicpc.net/problem/7453) (브루트포스..?) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
