@@ -4,6 +4,7 @@
 ### 백준
 [수 찾기](https://www.acmicpc.net/problem/1920) (이진탐색 기본) :o: <br>
 [나무 자르기](https://www.acmicpc.net/problem/2805) (이진탐색 반복문) :o: <br>
+[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
