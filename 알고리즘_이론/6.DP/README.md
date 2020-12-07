@@ -7,7 +7,7 @@
 [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) (???) <br>
 [RGB거리](https://www.acmicpc.net/problem/1149) (브루트 포스???) <br>
 [계단 오르기](https://www.acmicpc.net/problem/2579) (브루트 포스???) <br>
-[정수 삼각형](https://www.acmicpc.net/problem/1932) (밑에것들 비교해서, 위에 숫자를 max값으로 바꿔 나간다.) :o: <br>
+[정수 삼각형](https://www.acmicpc.net/problem/1932) (밑에것들 비교해서, 위에것들 숫자를 max값으로 바꿔 나간다.) :o: <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
