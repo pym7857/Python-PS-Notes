@@ -5,7 +5,7 @@
 [설탕 배달](https://www.acmicpc.net/problem/2839) (점화식 세우는게 핵심) :o: <br>
 [피보나치 함수](https://www.acmicpc.net/problem/1003) (0, 1 개수 또한 각각 피보나치 형식을 따른다.. → 피보나치 규칙 찾기) :o: <br>
 [RGB거리](https://www.acmicpc.net/problem/1149) (비교해서, max값으로 바꿔나가기) :o: <br>
-[계단 오르기](https://www.acmicpc.net/problem/2579) (비교해서, max값으로 바꿔나가기)(빡센 ) :o: <br>
+[계단 오르기](https://www.acmicpc.net/problem/2579) (비교해서, max값으로 바꿔나가기)(빡센 점화식) :o: <br>
 [정수 삼각형](https://www.acmicpc.net/problem/1932) (비교해서, max값으로 바꿔나가기) :o: <br>
 [포도주 시식](https://www.acmicpc.net/problem/2156) (조합의 최소/최대값 구하기) <br>
 [연속합](https://www.acmicpc.net/problem/1912) (조합의 최소/최대값 구하기) <br>
