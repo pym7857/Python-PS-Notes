@@ -8,7 +8,7 @@
 [계단 오르기](https://www.acmicpc.net/problem/2579) (비교해서, max값으로 바꿔나가기)(빡센 점화식) :o: <br>
 [정수 삼각형](https://www.acmicpc.net/problem/1932) (비교해서, max값으로 바꿔나가기) :o: <br>
 [포도주 시식](https://www.acmicpc.net/problem/2156) (비교해서, max값으로 바꿔나가기)(빡센 점화식) :o: <br>
-[연속합](https://www.acmicpc.net/problem/1912) (조합의 최소/최대값 구하기) <br>
+[연속합](https://www.acmicpc.net/problem/1912) (???) <br>
 [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) (???) <br>
 [쉬운 계단 수](https://www.acmicpc.net/problem/10844) (???) <br>
 [퇴사](https://www.acmicpc.net/problem/14501) (조합의 최소/최대값 구하기) <br>
