@@ -10,6 +10,7 @@
 [정수 삼각형](https://www.acmicpc.net/problem/1932) (밑에것들 비교해서, 위에것들 숫자를 max값으로 바꿔 나간다.) :o: <br>
 [포도주 시식](https://www.acmicpc.net/problem/2156) (조합의 최소/최대값 구하기) <br>
 [연속합](https://www.acmicpc.net/problem/1912) (조합의 최소/최대값 구하기) <br>
+[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) (???) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
