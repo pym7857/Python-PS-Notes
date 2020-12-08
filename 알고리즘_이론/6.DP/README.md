@@ -11,8 +11,8 @@
 [연속합](https://www.acmicpc.net/problem/1912) (???) <br>
 [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) (???) <br>
 [쉬운 계단 수](https://www.acmicpc.net/problem/10844) (???) <br>
-[퇴사](https://www.acmicpc.net/problem/14501) (조합의 최소/최대값 구하기) <br>
-[카드 구매하기](https://www.acmicpc.net/problem/11052) (조합의 최소/최대값 구하기) <br>
+[퇴사](https://www.acmicpc.net/problem/14501) (점화식 어떻게 세워) <br>
+[카드 구매하기](https://www.acmicpc.net/problem/11052) (점화식 어떻게 세워) <br>
 [스티커](https://www.acmicpc.net/problem/9465) (???) <br>
 [다리 놓기](https://www.acmicpc.net/problem/1010) (???) 
 
