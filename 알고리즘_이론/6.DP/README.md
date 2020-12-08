@@ -13,6 +13,7 @@
 [쉬운 계단 수](https://www.acmicpc.net/problem/10844) (???) <br>
 [퇴사](https://www.acmicpc.net/problem/14501) (조합의 최소/최대값 구하기) <br>
 [카드 구매하기](https://www.acmicpc.net/problem/11052) (조합의 최소/최대값 구하기) <br>
+[스티커](https://www.acmicpc.net/problem/9465) (???) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
