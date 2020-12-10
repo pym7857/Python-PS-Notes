@@ -2,6 +2,7 @@
 
 ## 못푼문제
 ### 백준 <br>
+[회의실배정](https://www.acmicpc.net/problem/1931) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준 <br>
