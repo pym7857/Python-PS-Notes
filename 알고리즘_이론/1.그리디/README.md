@@ -7,6 +7,7 @@
 [잃어버린 괄호](https://www.acmicpc.net/problem/1541) <br>
 [신입 사원](https://www.acmicpc.net/problem/1946) (등수) :o: <br>
 [단어 수학](https://www.acmicpc.net/problem/1339) (숫자 매칭) <br>
+[행렬](https://www.acmicpc.net/problem/1080) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준 <br>
