@@ -4,6 +4,7 @@
 ### 백준 <br>
 [회의실배정](https://www.acmicpc.net/problem/1931) <br>
 [로프](https://www.acmicpc.net/problem/2217) <br>
+[잃어버린 괄호](https://www.acmicpc.net/problem/1541) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준 <br>
