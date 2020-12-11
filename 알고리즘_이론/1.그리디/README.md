@@ -3,7 +3,7 @@
 ## 못푼문제
 ### 백준 <br>
 [회의실배정](https://www.acmicpc.net/problem/1931) :o: <br>
-[로프](https://www.acmicpc.net/problem/2217) <br>
+[로프](https://www.acmicpc.net/problem/2217) :o: <br>
 [잃어버린 괄호](https://www.acmicpc.net/problem/1541) <br>
 [신입 사원](https://www.acmicpc.net/problem/1946) :o: <br>
 [단어 수학](https://www.acmicpc.net/problem/1339) <br>
