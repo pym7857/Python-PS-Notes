@@ -5,10 +5,10 @@
 [회의실배정](https://www.acmicpc.net/problem/1931) :o: <br>
 [로프](https://www.acmicpc.net/problem/2217) :o: <br>
 [신입 사원](https://www.acmicpc.net/problem/1946) :o: <br>
-[단어 수학](https://www.acmicpc.net/problem/1339) <br>
+[단어 수학](https://www.acmicpc.net/problem/1339) :o: <br>
 [행렬](https://www.acmicpc.net/problem/1080) <br>
 [한 줄로 서기](https://www.acmicpc.net/problem/1138) <br>
-[수 묶기](https://www.acmicpc.net/problem/1744) <br>
+[수 묶기](https://www.acmicpc.net/problem/1744) :o: <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준 <br>
