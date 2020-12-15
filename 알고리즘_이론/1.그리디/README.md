@@ -10,6 +10,7 @@
 [한 줄로 서기](https://www.acmicpc.net/problem/1138) :o: <br>
 [수 묶기](https://www.acmicpc.net/problem/1744) :o: <br>
 [저울](https://www.acmicpc.net/problem/2437) <br>
+[병든 나이트](https://www.acmicpc.net/problem/1783) (예제 이해 X) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준 <br>
