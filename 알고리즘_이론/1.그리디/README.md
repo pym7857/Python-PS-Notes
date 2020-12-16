@@ -11,7 +11,8 @@
 [수 묶기](https://www.acmicpc.net/problem/1744) :o: <br>
 [저울](https://www.acmicpc.net/problem/2437) <br>
 [병든 나이트](https://www.acmicpc.net/problem/1783) (예제 이해 X) <br>
-[수리공 항승](https://www.acmicpc.net/problem/1449) (못풀겠음) <br>
+[수리공 항승](https://www.acmicpc.net/problem/1449) <br>
+[보석 도둑](https://www.acmicpc.net/problem/1202) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준 <br>
