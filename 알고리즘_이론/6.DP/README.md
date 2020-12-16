@@ -14,7 +14,8 @@
 [퇴사](https://www.acmicpc.net/problem/14501) (점화식 어떻게 세워) <br>
 [카드 구매하기](https://www.acmicpc.net/problem/11052) (점화식 어떻게 세워) <br>
 [스티커](https://www.acmicpc.net/problem/9465) (???) <br>
-[다리 놓기](https://www.acmicpc.net/problem/1010) (???) 
+[다리 놓기](https://www.acmicpc.net/problem/1010) (???) <br>
+[평범한 배낭](https://www.acmicpc.net/problem/12865) (배낭 문제) <br>
 
 ## 오래걸렸지만, 스스로 푼 문제
 ### 백준
