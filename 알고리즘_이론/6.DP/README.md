@@ -10,7 +10,7 @@
 [포도주 시식](https://www.acmicpc.net/problem/2156) (빡센 점화식) :o: <br>
 [연속합](https://www.acmicpc.net/problem/1912) (빡센 점화식)( max(지금까지 합, 지금 숫자만) ) :o: <br>
 [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) (dp 기본문제)( a < b 이면, max((이전에 dp들중 max)+1, 지금 dp) ) :o: <br>
-[쉬운 계단 수](https://www.acmicpc.net/problem/10844) (???) <br>
+[쉬운 계단 수](https://www.acmicpc.net/problem/10844) (바로 전 dp로부터 영향받는 문제) :o: <br>
 [퇴사](https://www.acmicpc.net/problem/14501) (점화식 어떻게 세워) <br>
 [카드 구매하기](https://www.acmicpc.net/problem/11052) (점화식 어떻게 세워) <br>
 [스티커](https://www.acmicpc.net/problem/9465) (???) <br>
